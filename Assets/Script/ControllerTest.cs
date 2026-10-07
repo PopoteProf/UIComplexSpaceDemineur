@@ -39,7 +39,7 @@ public class ControllerTest : MonoBehaviour
         vec.x = vec.x * _xPower;
         vec.y = vec.y * _yPower;
         vec.z = 0;
-        _rigidbody.velocity = vec;
+        _rigidbody.linearVelocity = vec;
         _rigidbody.transform.eulerAngles = new Vector3(-90,-ctx.ReadValue<Vector3>().x * _tiltPower,0);
     }
 }
