@@ -351,7 +351,7 @@ RectTransform:
   m_GameObject: {fileID: 901342872057870512}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2421731589011231605}
@@ -359,6 +359,7 @@ RectTransform:
   - {fileID: 1576630386267701063}
   - {fileID: 8815241797035403378}
   - {fileID: 4577615364575408081}
+  - {fileID: 498248579107967704}
   m_Father: {fileID: 6888761598457901131}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -443,7 +444,7 @@ GameObject:
   - component: {fileID: 4343459381365135696}
   - component: {fileID: 995968218957654701}
   m_Layer: 0
-  m_Name: Panel_Vertical_Image_1 (2)
+  m_Name: Panel_Vertical_Toggle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -633,7 +634,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.ToggleGroup
-  m_AllowSwitchOff: 0
+  m_AllowSwitchOff: 1
 --- !u!1 &1168043188581181537
 GameObject:
   m_ObjectHideFlags: 0
@@ -6028,7 +6029,7 @@ MonoBehaviour:
   onValueChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_IsOn: 1
+  m_IsOn: 0
 --- !u!1 &2297501197352349797
 GameObject:
   m_ObjectHideFlags: 0
@@ -6380,6 +6381,115 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!1 &3505299746797191596
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 498248579107967704}
+  - component: {fileID: 5022027698855652078}
+  - component: {fileID: 5033031497302795530}
+  - component: {fileID: 5184683750964154796}
+  - component: {fileID: 7094574564304906507}
+  m_Layer: 0
+  m_Name: CanvasGroupError
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &498248579107967704
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3505299746797191596}
+  m_LocalRotation: {x: -0, y: -0, z: -0.0000000037252903, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 323733292570545153}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &5022027698855652078
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3505299746797191596}
+  m_CullTransparentMesh: 1
+--- !u!114 &5033031497302795530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3505299746797191596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 0.023584902, b: 0.023584902, a: 0.49019608}
+  m_RaycastTarget: 0
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!225 &5184683750964154796
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3505299746797191596}
+  m_Enabled: 1
+  m_Alpha: 0
+  m_Interactable: 1
+  m_BlocksRaycasts: 0
+  m_IgnoreParentGroups: 0
+--- !u!114 &7094574564304906507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3505299746797191596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.LayoutElement
+  m_IgnoreLayout: 1
+  m_MinWidth: -1
+  m_MinHeight: -1
+  m_PreferredWidth: -1
+  m_PreferredHeight: -1
+  m_FlexibleWidth: -1
+  m_FlexibleHeight: -1
+  m_LayoutPriority: 1
 --- !u!1 &3656631756704564276
 GameObject:
   m_ObjectHideFlags: 0
@@ -6720,7 +6830,7 @@ MonoBehaviour:
   onValueChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_IsOn: 0
+  m_IsOn: 1
 --- !u!114 &2584233793462416512
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6733,7 +6843,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.ToggleGroup
-  m_AllowSwitchOff: 0
+  m_AllowSwitchOff: 1
 --- !u!1 &4994293791968312157
 GameObject:
   m_ObjectHideFlags: 0
@@ -6897,7 +7007,7 @@ GameObject:
   - component: {fileID: 1863026644587240621}
   - component: {fileID: 5261198429620938075}
   m_Layer: 0
-  m_Name: Panel_Vertical_Image_1 (3)
+  m_Name: Panel_Vertical_Toggle_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8012,7 +8122,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MineCheck
   _mainPanel: {fileID: 323733292570545153}
-  _animationTime: 0
+  _animationTime: 0.75
   _xAnimationCurve:
     serializedVersion: 2
     m_Curve:
@@ -8026,13 +8136,31 @@ MonoBehaviour:
       inWeight: 0
       outWeight: 0
     - serializedVersion: 3
-      time: 1
-      value: 1
+      time: 0.45999998
+      value: 0.064813614
       inSlope: 0
       outSlope: 0
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.8933872
+      value: 1.0163484
+      inSlope: -2.8193634
+      outSlope: -2.8193634
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.38577682
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: -1.976756
+      outSlope: -1.976756
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.1736791
       outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
@@ -8050,6 +8178,33 @@ MonoBehaviour:
       inWeight: 0
       outWeight: 0
     - serializedVersion: 3
+      time: 0.37768647
+      value: 1.0138181
+      inSlope: -6.8598633
+      outSlope: -6.8598633
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.17258422
+    - serializedVersion: 3
+      time: 0.47630984
+      value: 1.0344636
+      inSlope: -2.572911
+      outSlope: -2.572911
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.091166995
+    - serializedVersion: 3
+      time: 0.5949582
+      value: 0.9906414
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
       time: 1
       value: 1
       inSlope: 0
@@ -8062,11 +8217,11 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   _virtualCam: {fileID: 2896775947268210502}
-  _canvasGroupError: {fileID: 0}
+  _canvasGroupError: {fileID: 5184683750964154796}
   _errorTime: 1
   _animator: {fileID: 1869961638221506686}
   _alertDistance: 3
-  _triggercollider: {fileID: 979362881074770423}
+  _triggercollider: {fileID: 9017770001658221569}
   _mineRb: {fileID: 2764219836846001624}
   _psOff: {fileID: 174699264905622805}
   _toggle1: {fileID: 7077703315272820609}
