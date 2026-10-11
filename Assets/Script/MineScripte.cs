@@ -5,6 +5,10 @@ using UnityEngine.UI;
 
 public class MineScripte : MonoBehaviour
 {
+    public event EventHandler OnMineDeactivated;
+    public event EventHandler OnMineExploded;
+    
+    
     [SerializeField] private Transform _mainPanel;
     [SerializeField] private float _animationTime;
     [SerializeField] private AnimationCurve _xAnimationCurve = AnimationCurve.EaseInOut(0,0,1,1);
@@ -25,8 +29,7 @@ public class MineScripte : MonoBehaviour
     private Transform _player;
     protected virtual void Start() { }
 
-    protected virtual void Update()
-    {
+    protected virtual void Update() {
         if (_player != null) {
             if (Vector3.Distance(_player.position, transform.position) < _alertDistance) _animator.SetBool("IsAlert", true);
             else _animator.SetBool("IsAlert", false);
@@ -35,6 +38,7 @@ public class MineScripte : MonoBehaviour
     
 
     public void Desactive() {
+        OnMineDeactivated?.Invoke(this, EventArgs.Empty);
         _psOff.Play();
         _virtualCam.SetActive(false);
         _triggercollider.enabled = false;
@@ -82,8 +86,7 @@ public class MineScripte : MonoBehaviour
         _canvasGroupError.DOFade(0, _errorTime);
     }
 
-    private void OnDrawGizmos()
-    {
+    private void OnDrawGizmos() {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, _alertDistance);
     }
