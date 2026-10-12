@@ -34,10 +34,11 @@ public class LevelDoor : MonoBehaviour {
         }
     }
 
-    private void OpenDoor() {
+    private void OpenDoor()
+    {
+        _doorIsOpen = true;
         _animator.SetTrigger("Open");
         _camera.gameObject.SetActive(false);
-        _camera.Priority = 0;
         if (_isDoorUnlock) {
             _canvasUnlocked.SetActive(false);
         }
@@ -52,12 +53,13 @@ public class LevelDoor : MonoBehaviour {
     }
 
     private void MineOnMineDeactivated(object sender, EventArgs e) {
-        _unLockedMines--;
+        _unLockedMines++;
         CheckIfDoorUnlock();
     }
 
     private void CheckIfDoorUnlock() {
         _isDoorUnlock =_unLockedMines >= _mineToUnlock;
+        if( _isDoorUnlock ) StaticData.DoDoorUnlock();
     }
     
     private void OnTriggerEnter(Collider other) {
@@ -72,23 +74,18 @@ public class LevelDoor : MonoBehaviour {
                 _txtCount.text = _unLockedMines +"/" + _mineToUnlock;
                 _canvasLocked.SetActive(true);
             }
-            //_player = other.transform;
-            //OpenMine();
         }
     }
     private void OnTriggerExit(Collider other) {
         if (_doorIsOpen) return;
         if (other.transform.CompareTag("Player")) {
             _camera.gameObject.SetActive(false);
-            _camera.Priority = 0;
             if (_isDoorUnlock) {
                 _canvasUnlocked.SetActive(false);
             }
             else {
                 _canvasLocked.SetActive(false);
             }
-            //_player = null;
-            //CloseMine();
         }
     }
 }
