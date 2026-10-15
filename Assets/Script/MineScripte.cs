@@ -5,10 +5,6 @@ using UnityEngine.UI;
 
 public class MineScripte : MonoBehaviour
 {
-    public event EventHandler OnMineDeactivated;
-    public event EventHandler OnMineExploded;
-    
-    
     [SerializeField] private Transform _mainPanel;
     [SerializeField] private float _animationTime;
     [SerializeField] private AnimationCurve _xAnimationCurve = AnimationCurve.EaseInOut(0,0,1,1);
@@ -24,65 +20,32 @@ public class MineScripte : MonoBehaviour
     [SerializeField] private Collider _triggercollider;
     [SerializeField] private Rigidbody _mineRb;
     [SerializeField] private ParticleSystem _psOff;
-    [SerializeField] private Image _imgExplosionLoading;
-    [SerializeField] private Gradient _explosionGradient;
-    [SerializeField] private float _explosionDelay = 3;
-    [SerializeField] private GameObject _prfExplosion;
 
-
-    private float _explosionLoading;
-    private bool _isDeactivated = false;
+    
     private Transform _player;
     protected virtual void Start() { }
 
-    protected virtual void Update() {
-        if (_player != null) {
-            if (Vector3.Distance(_player.position, transform.position) < _alertDistance)
-            {
-                if (_isDeactivated)return;
-                ManagdeExplosionLoading(Time.deltaTime);
-                _animator.SetBool("IsAlert", true);
-                
-            }
-            else {
-                ManagdeExplosionLoading(-Time.deltaTime);
-                _animator.SetBool("IsAlert", false);
-            }
-        }
-        else {
-            ManagdeExplosionLoading(-Time.deltaTime);
-        }
-    }
-
-    private void ManagdeExplosionLoading(float deltaTime)
+    protected virtual void Update()
     {
-        _explosionLoading += deltaTime;
-        if (_explosionLoading >= _explosionDelay) {
-            Explode();
+        if (_player != null) {
+            if (Vector3.Distance(_player.position, transform.position) < _alertDistance) _animator.SetBool("IsAlert", true);
+            else _animator.SetBool("IsAlert", false);
         }
-        _explosionLoading = Mathf.Clamp(_explosionLoading, 0, _explosionDelay);
-        if (_imgExplosionLoading == null) return;
-        _imgExplosionLoading.fillAmount = _explosionLoading / _explosionDelay;
-        _imgExplosionLoading.color = _explosionGradient.Evaluate(_explosionLoading / _explosionDelay);
     }
     
 
     public void Desactive() {
-        OnMineDeactivated?.Invoke(this, EventArgs.Empty);
-        StaticData.MineDeactivated();
         _psOff.Play();
         _virtualCam.SetActive(false);
         _triggercollider.enabled = false;
         CloseMine();
         _animator.SetBool("Off",true);
         _mineRb.isKinematic = false;
-        _isDeactivated = true;
         //Destroy(gameObject);
     }
 
     
     private void OnTriggerEnter(Collider other) {
-        if (_isDeactivated)return;
         if (other.transform.CompareTag("Player"))
         {
             _player = other.transform;
@@ -90,7 +53,6 @@ public class MineScripte : MonoBehaviour
         }
     }
     private void OnTriggerExit(Collider other) {
-        if (_isDeactivated)return;
         if (other.transform.CompareTag("Player")) {
             _player = null;
             CloseMine();
@@ -120,17 +82,9 @@ public class MineScripte : MonoBehaviour
         _canvasGroupError.DOFade(0, _errorTime);
     }
 
-    private void OnDrawGizmos() {
+    private void OnDrawGizmos()
+    {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, _alertDistance);
-    }
-
-    private void Explode() {
-        Instantiate(_prfExplosion,transform.position,Quaternion.identity);
-        CloseMine();
-        StaticData.PlayerTakeDamage();
-        OnMineExploded?.Invoke(this, EventArgs.Empty);
-        StaticData.ExplodedMine();
-        gameObject.SetActive(false);
     }
 }
