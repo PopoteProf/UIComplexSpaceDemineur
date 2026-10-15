@@ -468,8 +468,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_16
       rect:
         serializedVersion: 2
-        x: 224
-        y: 576
+        x: 0
+        y: 544
         width: 32
         height: 32
       alignment: 0
@@ -490,8 +490,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_17
       rect:
         serializedVersion: 2
-        x: 256
-        y: 576
+        x: 32
+        y: 544
         width: 32
         height: 32
       alignment: 0
@@ -512,7 +512,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_18
       rect:
         serializedVersion: 2
-        x: 0
+        x: 64
         y: 544
         width: 32
         height: 32
@@ -534,7 +534,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_19
       rect:
         serializedVersion: 2
-        x: 32
+        x: 96
         y: 544
         width: 32
         height: 32
@@ -556,7 +556,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_20
       rect:
         serializedVersion: 2
-        x: 64
+        x: 128
         y: 544
         width: 32
         height: 32
@@ -578,7 +578,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_21
       rect:
         serializedVersion: 2
-        x: 96
+        x: 160
         y: 544
         width: 32
         height: 32
@@ -600,7 +600,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_22
       rect:
         serializedVersion: 2
-        x: 128
+        x: 192
         y: 544
         width: 32
         height: 32
@@ -622,8 +622,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_23
       rect:
         serializedVersion: 2
-        x: 160
-        y: 544
+        x: 0
+        y: 512
         width: 32
         height: 32
       alignment: 0
@@ -644,8 +644,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_24
       rect:
         serializedVersion: 2
-        x: 192
-        y: 544
+        x: 32
+        y: 512
         width: 32
         height: 32
       alignment: 0
@@ -666,8 +666,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_25
       rect:
         serializedVersion: 2
-        x: 288
-        y: 544
+        x: 64
+        y: 512
         width: 32
         height: 32
       alignment: 0
@@ -688,8 +688,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_26
       rect:
         serializedVersion: 2
-        x: 320
-        y: 544
+        x: 96
+        y: 512
         width: 32
         height: 32
       alignment: 0
@@ -710,8 +710,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_27
       rect:
         serializedVersion: 2
-        x: 384
-        y: 544
+        x: 128
+        y: 512
         width: 32
         height: 32
       alignment: 0
@@ -732,7 +732,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_28
       rect:
         serializedVersion: 2
-        x: 0
+        x: 160
         y: 512
         width: 32
         height: 32
@@ -754,7 +754,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_29
       rect:
         serializedVersion: 2
-        x: 32
+        x: 192
         y: 512
         width: 32
         height: 32
@@ -776,7 +776,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_30
       rect:
         serializedVersion: 2
-        x: 64
+        x: 224
         y: 512
         width: 32
         height: 32
@@ -798,7 +798,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_31
       rect:
         serializedVersion: 2
-        x: 96
+        x: 256
         y: 512
         width: 32
         height: 32
@@ -820,7 +820,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_32
       rect:
         serializedVersion: 2
-        x: 128
+        x: 288
         y: 512
         width: 32
         height: 32
@@ -842,7 +842,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_33
       rect:
         serializedVersion: 2
-        x: 160
+        x: 320
         y: 512
         width: 32
         height: 32
@@ -864,7 +864,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_34
       rect:
         serializedVersion: 2
-        x: 192
+        x: 352
         y: 512
         width: 32
         height: 32
@@ -886,7 +886,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_35
       rect:
         serializedVersion: 2
-        x: 224
+        x: 384
         y: 512
         width: 32
         height: 32
@@ -908,7 +908,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_36
       rect:
         serializedVersion: 2
-        x: 256
+        x: 416
         y: 512
         width: 32
         height: 32
@@ -930,7 +930,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_37
       rect:
         serializedVersion: 2
-        x: 288
+        x: 448
         y: 512
         width: 32
         height: 32
@@ -952,7 +952,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_38
       rect:
         serializedVersion: 2
-        x: 320
+        x: 480
         y: 512
         width: 32
         height: 32
@@ -974,8 +974,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_39
       rect:
         serializedVersion: 2
-        x: 352
-        y: 512
+        x: 0
+        y: 480
         width: 32
         height: 32
       alignment: 0
@@ -996,8 +996,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_40
       rect:
         serializedVersion: 2
-        x: 384
-        y: 512
+        x: 32
+        y: 480
         width: 32
         height: 32
       alignment: 0
@@ -1018,8 +1018,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_41
       rect:
         serializedVersion: 2
-        x: 416
-        y: 512
+        x: 64
+        y: 480
         width: 32
         height: 32
       alignment: 0
@@ -1040,8 +1040,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_42
       rect:
         serializedVersion: 2
-        x: 448
-        y: 512
+        x: 96
+        y: 480
         width: 32
         height: 32
       alignment: 0
@@ -1062,8 +1062,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_43
       rect:
         serializedVersion: 2
-        x: 480
-        y: 512
+        x: 128
+        y: 480
         width: 32
         height: 32
       alignment: 0
@@ -1084,7 +1084,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_44
       rect:
         serializedVersion: 2
-        x: 0
+        x: 160
         y: 480
         width: 32
         height: 32
@@ -1106,7 +1106,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_45
       rect:
         serializedVersion: 2
-        x: 32
+        x: 192
         y: 480
         width: 32
         height: 32
@@ -1128,7 +1128,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_46
       rect:
         serializedVersion: 2
-        x: 64
+        x: 224
         y: 480
         width: 32
         height: 32
@@ -1150,7 +1150,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_47
       rect:
         serializedVersion: 2
-        x: 96
+        x: 256
         y: 480
         width: 32
         height: 32
@@ -1172,8 +1172,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_48
       rect:
         serializedVersion: 2
-        x: 128
-        y: 480
+        x: 0
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -1194,8 +1194,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_49
       rect:
         serializedVersion: 2
-        x: 160
-        y: 480
+        x: 32
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -1216,8 +1216,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_50
       rect:
         serializedVersion: 2
-        x: 192
-        y: 480
+        x: 64
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -1238,8 +1238,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_51
       rect:
         serializedVersion: 2
-        x: 224
-        y: 480
+        x: 96
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -1260,8 +1260,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_52
       rect:
         serializedVersion: 2
-        x: 256
-        y: 480
+        x: 128
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -1282,8 +1282,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_53
       rect:
         serializedVersion: 2
-        x: 288
-        y: 480
+        x: 160
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -1304,8 +1304,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_54
       rect:
         serializedVersion: 2
-        x: 384
-        y: 480
+        x: 192
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -1326,8 +1326,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_55
       rect:
         serializedVersion: 2
-        x: 416
-        y: 480
+        x: 224
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -1348,7 +1348,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_56
       rect:
         serializedVersion: 2
-        x: 0
+        x: 256
         y: 448
         width: 32
         height: 32
@@ -1370,7 +1370,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_57
       rect:
         serializedVersion: 2
-        x: 32
+        x: 288
         y: 448
         width: 32
         height: 32
@@ -1392,7 +1392,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_58
       rect:
         serializedVersion: 2
-        x: 64
+        x: 320
         y: 448
         width: 32
         height: 32
@@ -1414,7 +1414,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_59
       rect:
         serializedVersion: 2
-        x: 96
+        x: 352
         y: 448
         width: 32
         height: 32
@@ -1436,7 +1436,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_60
       rect:
         serializedVersion: 2
-        x: 128
+        x: 384
         y: 448
         width: 32
         height: 32
@@ -1458,7 +1458,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_61
       rect:
         serializedVersion: 2
-        x: 160
+        x: 416
         y: 448
         width: 32
         height: 32
@@ -1480,7 +1480,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_62
       rect:
         serializedVersion: 2
-        x: 192
+        x: 448
         y: 448
         width: 32
         height: 32
@@ -1502,7 +1502,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_63
       rect:
         serializedVersion: 2
-        x: 224
+        x: 480
         y: 448
         width: 32
         height: 32
@@ -1524,8 +1524,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_64
       rect:
         serializedVersion: 2
-        x: 256
-        y: 448
+        x: 0
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -1546,8 +1546,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_65
       rect:
         serializedVersion: 2
-        x: 288
-        y: 448
+        x: 32
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -1568,8 +1568,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_66
       rect:
         serializedVersion: 2
-        x: 320
-        y: 448
+        x: 64
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -1590,8 +1590,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_67
       rect:
         serializedVersion: 2
-        x: 352
-        y: 448
+        x: 96
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -1612,8 +1612,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_68
       rect:
         serializedVersion: 2
-        x: 384
-        y: 448
+        x: 128
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -1634,8 +1634,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_69
       rect:
         serializedVersion: 2
-        x: 416
-        y: 448
+        x: 160
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -1656,8 +1656,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_70
       rect:
         serializedVersion: 2
-        x: 448
-        y: 448
+        x: 192
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -1678,8 +1678,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_71
       rect:
         serializedVersion: 2
-        x: 480
-        y: 448
+        x: 224
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -1700,7 +1700,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_72
       rect:
         serializedVersion: 2
-        x: 0
+        x: 256
         y: 416
         width: 32
         height: 32
@@ -1722,7 +1722,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_73
       rect:
         serializedVersion: 2
-        x: 32
+        x: 288
         y: 416
         width: 32
         height: 32
@@ -1744,7 +1744,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_74
       rect:
         serializedVersion: 2
-        x: 64
+        x: 320
         y: 416
         width: 32
         height: 32
@@ -1766,7 +1766,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_75
       rect:
         serializedVersion: 2
-        x: 96
+        x: 352
         y: 416
         width: 32
         height: 32
@@ -1788,8 +1788,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_76
       rect:
         serializedVersion: 2
-        x: 128
-        y: 416
+        x: 0
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -1810,8 +1810,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_77
       rect:
         serializedVersion: 2
-        x: 160
-        y: 416
+        x: 32
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -1832,8 +1832,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_78
       rect:
         serializedVersion: 2
-        x: 192
-        y: 416
+        x: 64
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -1854,8 +1854,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_79
       rect:
         serializedVersion: 2
-        x: 224
-        y: 416
+        x: 96
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -1876,8 +1876,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_80
       rect:
         serializedVersion: 2
-        x: 256
-        y: 416
+        x: 128
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -1898,8 +1898,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_81
       rect:
         serializedVersion: 2
-        x: 288
-        y: 416
+        x: 160
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -1920,8 +1920,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_82
       rect:
         serializedVersion: 2
-        x: 320
-        y: 416
+        x: 192
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -1942,8 +1942,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_83
       rect:
         serializedVersion: 2
-        x: 352
-        y: 416
+        x: 224
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -1964,7 +1964,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_84
       rect:
         serializedVersion: 2
-        x: 0
+        x: 256
         y: 384
         width: 32
         height: 32
@@ -1986,7 +1986,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_85
       rect:
         serializedVersion: 2
-        x: 32
+        x: 288
         y: 384
         width: 32
         height: 32
@@ -2008,7 +2008,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_86
       rect:
         serializedVersion: 2
-        x: 64
+        x: 320
         y: 384
         width: 32
         height: 32
@@ -2030,7 +2030,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_87
       rect:
         serializedVersion: 2
-        x: 96
+        x: 352
         y: 384
         width: 32
         height: 32
@@ -2052,7 +2052,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_88
       rect:
         serializedVersion: 2
-        x: 128
+        x: 384
         y: 384
         width: 32
         height: 32
@@ -2074,7 +2074,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_89
       rect:
         serializedVersion: 2
-        x: 160
+        x: 416
         y: 384
         width: 32
         height: 32
@@ -2096,7 +2096,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_90
       rect:
         serializedVersion: 2
-        x: 192
+        x: 448
         y: 384
         width: 32
         height: 32
@@ -2118,7 +2118,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_91
       rect:
         serializedVersion: 2
-        x: 224
+        x: 480
         y: 384
         width: 32
         height: 32
@@ -2140,8 +2140,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_92
       rect:
         serializedVersion: 2
-        x: 256
-        y: 384
+        x: 0
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -2162,8 +2162,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_93
       rect:
         serializedVersion: 2
-        x: 288
-        y: 384
+        x: 32
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -2184,8 +2184,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_94
       rect:
         serializedVersion: 2
-        x: 320
-        y: 384
+        x: 64
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -2206,8 +2206,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_95
       rect:
         serializedVersion: 2
-        x: 352
-        y: 384
+        x: 96
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -2228,8 +2228,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_96
       rect:
         serializedVersion: 2
-        x: 384
-        y: 384
+        x: 128
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -2250,8 +2250,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_97
       rect:
         serializedVersion: 2
-        x: 416
-        y: 384
+        x: 160
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -2272,8 +2272,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_98
       rect:
         serializedVersion: 2
-        x: 448
-        y: 384
+        x: 192
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -2294,8 +2294,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_99
       rect:
         serializedVersion: 2
-        x: 480
-        y: 384
+        x: 224
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -2316,7 +2316,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_100
       rect:
         serializedVersion: 2
-        x: 0
+        x: 256
         y: 352
         width: 32
         height: 32
@@ -2338,7 +2338,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_101
       rect:
         serializedVersion: 2
-        x: 32
+        x: 288
         y: 352
         width: 32
         height: 32
@@ -2360,8 +2360,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_102
       rect:
         serializedVersion: 2
-        x: 64
-        y: 352
+        x: 0
+        y: 320
         width: 32
         height: 32
       alignment: 0
@@ -2382,8 +2382,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_103
       rect:
         serializedVersion: 2
-        x: 96
-        y: 352
+        x: 32
+        y: 320
         width: 32
         height: 32
       alignment: 0
@@ -2404,8 +2404,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_104
       rect:
         serializedVersion: 2
-        x: 128
-        y: 352
+        x: 64
+        y: 320
         width: 32
         height: 32
       alignment: 0
@@ -2426,8 +2426,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_105
       rect:
         serializedVersion: 2
-        x: 160
-        y: 352
+        x: 96
+        y: 320
         width: 32
         height: 32
       alignment: 0
@@ -2448,8 +2448,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_106
       rect:
         serializedVersion: 2
-        x: 192
-        y: 352
+        x: 128
+        y: 320
         width: 32
         height: 32
       alignment: 0
@@ -2470,8 +2470,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_107
       rect:
         serializedVersion: 2
-        x: 224
-        y: 352
+        x: 160
+        y: 320
         width: 32
         height: 32
       alignment: 0
@@ -2492,8 +2492,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_108
       rect:
         serializedVersion: 2
-        x: 256
-        y: 352
+        x: 192
+        y: 320
         width: 32
         height: 32
       alignment: 0
@@ -2514,8 +2514,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_109
       rect:
         serializedVersion: 2
-        x: 288
-        y: 352
+        x: 224
+        y: 320
         width: 32
         height: 32
       alignment: 0
@@ -2536,8 +2536,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_110
       rect:
         serializedVersion: 2
-        x: 480
-        y: 352
+        x: 256
+        y: 320
         width: 32
         height: 32
       alignment: 0
@@ -2558,7 +2558,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_111
       rect:
         serializedVersion: 2
-        x: 0
+        x: 288
         y: 320
         width: 32
         height: 32
@@ -2580,7 +2580,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_112
       rect:
         serializedVersion: 2
-        x: 32
+        x: 320
         y: 320
         width: 32
         height: 32
@@ -2602,7 +2602,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_113
       rect:
         serializedVersion: 2
-        x: 64
+        x: 352
         y: 320
         width: 32
         height: 32
@@ -2624,7 +2624,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_114
       rect:
         serializedVersion: 2
-        x: 96
+        x: 384
         y: 320
         width: 32
         height: 32
@@ -2646,7 +2646,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_115
       rect:
         serializedVersion: 2
-        x: 128
+        x: 416
         y: 320
         width: 32
         height: 32
@@ -2668,7 +2668,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_116
       rect:
         serializedVersion: 2
-        x: 160
+        x: 448
         y: 320
         width: 32
         height: 32
@@ -2690,7 +2690,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_117
       rect:
         serializedVersion: 2
-        x: 192
+        x: 480
         y: 320
         width: 32
         height: 32
@@ -2712,8 +2712,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_118
       rect:
         serializedVersion: 2
-        x: 224
-        y: 320
+        x: 0
+        y: 288
         width: 32
         height: 32
       alignment: 0
@@ -2734,8 +2734,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_119
       rect:
         serializedVersion: 2
-        x: 256
-        y: 320
+        x: 32
+        y: 288
         width: 32
         height: 32
       alignment: 0
@@ -2756,8 +2756,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_120
       rect:
         serializedVersion: 2
-        x: 288
-        y: 320
+        x: 64
+        y: 288
         width: 32
         height: 32
       alignment: 0
@@ -2778,8 +2778,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_121
       rect:
         serializedVersion: 2
-        x: 320
-        y: 320
+        x: 96
+        y: 288
         width: 32
         height: 32
       alignment: 0
@@ -2800,8 +2800,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_122
       rect:
         serializedVersion: 2
-        x: 352
-        y: 320
+        x: 128
+        y: 288
         width: 32
         height: 32
       alignment: 0
@@ -2822,8 +2822,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_123
       rect:
         serializedVersion: 2
-        x: 384
-        y: 320
+        x: 160
+        y: 288
         width: 32
         height: 32
       alignment: 0
@@ -2844,8 +2844,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_124
       rect:
         serializedVersion: 2
-        x: 416
-        y: 320
+        x: 192
+        y: 288
         width: 32
         height: 32
       alignment: 0
@@ -2866,8 +2866,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_125
       rect:
         serializedVersion: 2
-        x: 448
-        y: 320
+        x: 224
+        y: 288
         width: 32
         height: 32
       alignment: 0
@@ -2888,8 +2888,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_126
       rect:
         serializedVersion: 2
-        x: 480
-        y: 320
+        x: 256
+        y: 288
         width: 32
         height: 32
       alignment: 0
@@ -2910,7 +2910,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_127
       rect:
         serializedVersion: 2
-        x: 0
+        x: 288
         y: 288
         width: 32
         height: 32
@@ -2932,7 +2932,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_128
       rect:
         serializedVersion: 2
-        x: 32
+        x: 320
         y: 288
         width: 32
         height: 32
@@ -2954,7 +2954,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_129
       rect:
         serializedVersion: 2
-        x: 64
+        x: 352
         y: 288
         width: 32
         height: 32
@@ -2976,7 +2976,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_130
       rect:
         serializedVersion: 2
-        x: 96
+        x: 384
         y: 288
         width: 32
         height: 32
@@ -2998,7 +2998,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_131
       rect:
         serializedVersion: 2
-        x: 128
+        x: 416
         y: 288
         width: 32
         height: 32
@@ -3020,7 +3020,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_132
       rect:
         serializedVersion: 2
-        x: 160
+        x: 448
         y: 288
         width: 32
         height: 32
@@ -3042,7 +3042,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_133
       rect:
         serializedVersion: 2
-        x: 192
+        x: 480
         y: 288
         width: 32
         height: 32
@@ -3064,8 +3064,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_134
       rect:
         serializedVersion: 2
-        x: 224
-        y: 288
+        x: 0
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -3086,8 +3086,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_135
       rect:
         serializedVersion: 2
-        x: 256
-        y: 288
+        x: 32
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -3108,8 +3108,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_136
       rect:
         serializedVersion: 2
-        x: 288
-        y: 288
+        x: 64
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -3130,8 +3130,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_137
       rect:
         serializedVersion: 2
-        x: 320
-        y: 288
+        x: 96
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -3152,8 +3152,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_138
       rect:
         serializedVersion: 2
-        x: 352
-        y: 288
+        x: 128
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -3174,8 +3174,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_139
       rect:
         serializedVersion: 2
-        x: 384
-        y: 288
+        x: 160
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -3196,8 +3196,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_140
       rect:
         serializedVersion: 2
-        x: 416
-        y: 288
+        x: 192
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -3218,8 +3218,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_141
       rect:
         serializedVersion: 2
-        x: 448
-        y: 288
+        x: 224
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -3240,8 +3240,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_142
       rect:
         serializedVersion: 2
-        x: 480
-        y: 288
+        x: 256
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -3262,7 +3262,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_143
       rect:
         serializedVersion: 2
-        x: 0
+        x: 288
         y: 256
         width: 32
         height: 32
@@ -3284,7 +3284,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_144
       rect:
         serializedVersion: 2
-        x: 32
+        x: 320
         y: 256
         width: 32
         height: 32
@@ -3306,7 +3306,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_145
       rect:
         serializedVersion: 2
-        x: 64
+        x: 352
         y: 256
         width: 32
         height: 32
@@ -3328,7 +3328,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_146
       rect:
         serializedVersion: 2
-        x: 96
+        x: 384
         y: 256
         width: 32
         height: 32
@@ -3350,7 +3350,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_147
       rect:
         serializedVersion: 2
-        x: 128
+        x: 416
         y: 256
         width: 32
         height: 32
@@ -3372,7 +3372,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_148
       rect:
         serializedVersion: 2
-        x: 160
+        x: 448
         y: 256
         width: 32
         height: 32
@@ -3394,7 +3394,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_149
       rect:
         serializedVersion: 2
-        x: 192
+        x: 480
         y: 256
         width: 32
         height: 32
@@ -3416,8 +3416,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_150
       rect:
         serializedVersion: 2
-        x: 224
-        y: 256
+        x: 0
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -3438,8 +3438,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_151
       rect:
         serializedVersion: 2
-        x: 256
-        y: 256
+        x: 32
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -3460,8 +3460,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_152
       rect:
         serializedVersion: 2
-        x: 288
-        y: 256
+        x: 64
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -3482,8 +3482,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_153
       rect:
         serializedVersion: 2
-        x: 320
-        y: 256
+        x: 96
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -3504,8 +3504,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_154
       rect:
         serializedVersion: 2
-        x: 352
-        y: 256
+        x: 128
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -3526,8 +3526,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_155
       rect:
         serializedVersion: 2
-        x: 384
-        y: 256
+        x: 160
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -3548,8 +3548,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_156
       rect:
         serializedVersion: 2
-        x: 416
-        y: 256
+        x: 192
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -3570,8 +3570,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_157
       rect:
         serializedVersion: 2
-        x: 448
-        y: 256
+        x: 224
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -3592,8 +3592,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_158
       rect:
         serializedVersion: 2
-        x: 480
-        y: 256
+        x: 256
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -3614,7 +3614,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_159
       rect:
         serializedVersion: 2
-        x: 0
+        x: 288
         y: 224
         width: 32
         height: 32
@@ -3636,7 +3636,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_160
       rect:
         serializedVersion: 2
-        x: 32
+        x: 320
         y: 224
         width: 32
         height: 32
@@ -3658,7 +3658,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_161
       rect:
         serializedVersion: 2
-        x: 64
+        x: 352
         y: 224
         width: 32
         height: 32
@@ -3680,7 +3680,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_162
       rect:
         serializedVersion: 2
-        x: 96
+        x: 384
         y: 224
         width: 32
         height: 32
@@ -3702,7 +3702,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_163
       rect:
         serializedVersion: 2
-        x: 128
+        x: 416
         y: 224
         width: 32
         height: 32
@@ -3724,7 +3724,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_164
       rect:
         serializedVersion: 2
-        x: 160
+        x: 448
         y: 224
         width: 32
         height: 32
@@ -3746,7 +3746,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_165
       rect:
         serializedVersion: 2
-        x: 192
+        x: 480
         y: 224
         width: 32
         height: 32
@@ -3768,8 +3768,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_166
       rect:
         serializedVersion: 2
-        x: 224
-        y: 224
+        x: 0
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -3790,8 +3790,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_167
       rect:
         serializedVersion: 2
-        x: 256
-        y: 224
+        x: 32
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -3812,8 +3812,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_168
       rect:
         serializedVersion: 2
-        x: 288
-        y: 224
+        x: 64
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -3834,8 +3834,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_169
       rect:
         serializedVersion: 2
-        x: 320
-        y: 224
+        x: 96
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -3856,8 +3856,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_170
       rect:
         serializedVersion: 2
-        x: 352
-        y: 224
+        x: 128
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -3878,8 +3878,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_171
       rect:
         serializedVersion: 2
-        x: 384
-        y: 224
+        x: 160
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -3900,8 +3900,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_172
       rect:
         serializedVersion: 2
-        x: 416
-        y: 224
+        x: 192
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -3922,8 +3922,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_173
       rect:
         serializedVersion: 2
-        x: 448
-        y: 224
+        x: 224
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -3944,8 +3944,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_174
       rect:
         serializedVersion: 2
-        x: 480
-        y: 224
+        x: 256
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -3966,7 +3966,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_175
       rect:
         serializedVersion: 2
-        x: 0
+        x: 288
         y: 192
         width: 32
         height: 32
@@ -3988,7 +3988,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_176
       rect:
         serializedVersion: 2
-        x: 32
+        x: 320
         y: 192
         width: 32
         height: 32
@@ -4010,7 +4010,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_177
       rect:
         serializedVersion: 2
-        x: 64
+        x: 352
         y: 192
         width: 32
         height: 32
@@ -4032,7 +4032,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_178
       rect:
         serializedVersion: 2
-        x: 96
+        x: 384
         y: 192
         width: 32
         height: 32
@@ -4054,7 +4054,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_179
       rect:
         serializedVersion: 2
-        x: 128
+        x: 416
         y: 192
         width: 32
         height: 32
@@ -4076,7 +4076,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_180
       rect:
         serializedVersion: 2
-        x: 160
+        x: 448
         y: 192
         width: 32
         height: 32
@@ -4098,7 +4098,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_181
       rect:
         serializedVersion: 2
-        x: 192
+        x: 480
         y: 192
         width: 32
         height: 32
@@ -4120,8 +4120,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_182
       rect:
         serializedVersion: 2
-        x: 224
-        y: 192
+        x: 0
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4142,8 +4142,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_183
       rect:
         serializedVersion: 2
-        x: 256
-        y: 192
+        x: 32
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4164,8 +4164,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_184
       rect:
         serializedVersion: 2
-        x: 288
-        y: 192
+        x: 64
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4186,8 +4186,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_185
       rect:
         serializedVersion: 2
-        x: 320
-        y: 192
+        x: 96
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4208,8 +4208,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_186
       rect:
         serializedVersion: 2
-        x: 352
-        y: 192
+        x: 128
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4230,8 +4230,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_187
       rect:
         serializedVersion: 2
-        x: 384
-        y: 192
+        x: 160
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4252,8 +4252,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_188
       rect:
         serializedVersion: 2
-        x: 416
-        y: 192
+        x: 192
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4274,8 +4274,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_189
       rect:
         serializedVersion: 2
-        x: 448
-        y: 192
+        x: 224
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4296,8 +4296,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_190
       rect:
         serializedVersion: 2
-        x: 480
-        y: 192
+        x: 256
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4318,7 +4318,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_191
       rect:
         serializedVersion: 2
-        x: 0
+        x: 288
         y: 160
         width: 32
         height: 32
@@ -4340,7 +4340,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_192
       rect:
         serializedVersion: 2
-        x: 32
+        x: 320
         y: 160
         width: 32
         height: 32
@@ -4362,7 +4362,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_193
       rect:
         serializedVersion: 2
-        x: 64
+        x: 352
         y: 160
         width: 32
         height: 32
@@ -4384,7 +4384,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_194
       rect:
         serializedVersion: 2
-        x: 96
+        x: 384
         y: 160
         width: 32
         height: 32
@@ -4406,7 +4406,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_195
       rect:
         serializedVersion: 2
-        x: 128
+        x: 416
         y: 160
         width: 32
         height: 32
@@ -4428,7 +4428,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_196
       rect:
         serializedVersion: 2
-        x: 160
+        x: 448
         y: 160
         width: 32
         height: 32
@@ -4450,7 +4450,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_197
       rect:
         serializedVersion: 2
-        x: 192
+        x: 480
         y: 160
         width: 32
         height: 32
@@ -4472,8 +4472,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_198
       rect:
         serializedVersion: 2
-        x: 224
-        y: 160
+        x: 0
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4494,8 +4494,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_199
       rect:
         serializedVersion: 2
-        x: 256
-        y: 160
+        x: 32
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4516,8 +4516,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_200
       rect:
         serializedVersion: 2
-        x: 288
-        y: 160
+        x: 64
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4538,8 +4538,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_201
       rect:
         serializedVersion: 2
-        x: 320
-        y: 160
+        x: 96
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4560,8 +4560,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_202
       rect:
         serializedVersion: 2
-        x: 352
-        y: 160
+        x: 128
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4582,8 +4582,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_203
       rect:
         serializedVersion: 2
-        x: 384
-        y: 160
+        x: 160
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4604,8 +4604,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_204
       rect:
         serializedVersion: 2
-        x: 416
-        y: 160
+        x: 192
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4626,8 +4626,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_205
       rect:
         serializedVersion: 2
-        x: 448
-        y: 160
+        x: 224
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4648,8 +4648,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_206
       rect:
         serializedVersion: 2
-        x: 480
-        y: 160
+        x: 256
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4670,7 +4670,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_207
       rect:
         serializedVersion: 2
-        x: 0
+        x: 288
         y: 128
         width: 32
         height: 32
@@ -4692,7 +4692,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_208
       rect:
         serializedVersion: 2
-        x: 32
+        x: 320
         y: 128
         width: 32
         height: 32
@@ -4714,7 +4714,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_209
       rect:
         serializedVersion: 2
-        x: 64
+        x: 352
         y: 128
         width: 32
         height: 32
@@ -4736,7 +4736,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_210
       rect:
         serializedVersion: 2
-        x: 96
+        x: 384
         y: 128
         width: 32
         height: 32
@@ -4758,7 +4758,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_211
       rect:
         serializedVersion: 2
-        x: 128
+        x: 416
         y: 128
         width: 32
         height: 32
@@ -4780,7 +4780,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_212
       rect:
         serializedVersion: 2
-        x: 160
+        x: 448
         y: 128
         width: 32
         height: 32
@@ -4802,8 +4802,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_213
       rect:
         serializedVersion: 2
-        x: 192
-        y: 128
+        x: 0
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -4824,8 +4824,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_214
       rect:
         serializedVersion: 2
-        x: 224
-        y: 128
+        x: 32
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -4846,8 +4846,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_215
       rect:
         serializedVersion: 2
-        x: 256
-        y: 128
+        x: 64
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -4868,8 +4868,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_216
       rect:
         serializedVersion: 2
-        x: 288
-        y: 128
+        x: 96
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -4890,8 +4890,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_217
       rect:
         serializedVersion: 2
-        x: 320
-        y: 128
+        x: 128
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -4912,8 +4912,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_218
       rect:
         serializedVersion: 2
-        x: 352
-        y: 128
+        x: 160
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -4934,8 +4934,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_219
       rect:
         serializedVersion: 2
-        x: 384
-        y: 128
+        x: 192
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -4956,8 +4956,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_220
       rect:
         serializedVersion: 2
-        x: 416
-        y: 128
+        x: 224
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -4978,8 +4978,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_221
       rect:
         serializedVersion: 2
-        x: 448
-        y: 128
+        x: 256
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -5000,8 +5000,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_222
       rect:
         serializedVersion: 2
-        x: 480
-        y: 128
+        x: 288
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -5022,7 +5022,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_223
       rect:
         serializedVersion: 2
-        x: 0
+        x: 320
         y: 96
         width: 32
         height: 32
@@ -5044,7 +5044,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_224
       rect:
         serializedVersion: 2
-        x: 32
+        x: 352
         y: 96
         width: 32
         height: 32
@@ -5066,7 +5066,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_225
       rect:
         serializedVersion: 2
-        x: 64
+        x: 384
         y: 96
         width: 32
         height: 32
@@ -5088,7 +5088,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_226
       rect:
         serializedVersion: 2
-        x: 96
+        x: 416
         y: 96
         width: 32
         height: 32
@@ -5110,7 +5110,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_227
       rect:
         serializedVersion: 2
-        x: 128
+        x: 448
         y: 96
         width: 32
         height: 32
@@ -5132,8 +5132,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_228
       rect:
         serializedVersion: 2
-        x: 160
-        y: 96
+        x: 0
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5154,8 +5154,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_229
       rect:
         serializedVersion: 2
-        x: 192
-        y: 96
+        x: 32
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5176,8 +5176,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_230
       rect:
         serializedVersion: 2
-        x: 224
-        y: 96
+        x: 64
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5198,8 +5198,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_231
       rect:
         serializedVersion: 2
-        x: 256
-        y: 96
+        x: 96
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5220,8 +5220,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_232
       rect:
         serializedVersion: 2
-        x: 288
-        y: 96
+        x: 128
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5242,8 +5242,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_233
       rect:
         serializedVersion: 2
-        x: 320
-        y: 96
+        x: 160
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5264,8 +5264,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_234
       rect:
         serializedVersion: 2
-        x: 352
-        y: 96
+        x: 192
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5286,8 +5286,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_235
       rect:
         serializedVersion: 2
-        x: 384
-        y: 96
+        x: 224
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5308,8 +5308,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_236
       rect:
         serializedVersion: 2
-        x: 416
-        y: 96
+        x: 256
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5330,8 +5330,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_237
       rect:
         serializedVersion: 2
-        x: 448
-        y: 96
+        x: 288
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5352,7 +5352,7 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_238
       rect:
         serializedVersion: 2
-        x: 0
+        x: 320
         y: 64
         width: 32
         height: 32
@@ -5374,8 +5374,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_239
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
+        x: 0
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5396,8 +5396,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_240
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
+        x: 32
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5418,8 +5418,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_241
       rect:
         serializedVersion: 2
-        x: 96
-        y: 64
+        x: 64
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5440,8 +5440,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_242
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
+        x: 96
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5462,8 +5462,8 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_243
       rect:
         serializedVersion: 2
-        x: 160
-        y: 64
+        x: 128
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5484,226 +5484,6 @@ TextureImporter:
       name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_244
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f8d7fc5647e8adb4483d1c5251957662
-      internalID: -821673066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_245
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0aaee8cb3dad03247a2fa50141f33108
-      internalID: -526806876
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_246
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0dac790b89625614daa0ef212e1c499d
-      internalID: 296537187
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_247
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8fcace8bf2da108468cc845da1d67c8b
-      internalID: -1852803469
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_248
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4df0a4c0a3226e4ea0ee65583d7eb0c
-      internalID: -1247623044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_249
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0157bd5f9a0b68e4b9dadaccda3b640b
-      internalID: -470304117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_250
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2acdddaa507efed4eb0875f1e5b6f6f5
-      internalID: 1893575287
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_251
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06384478d869d994fb7913693ff3eb00
-      internalID: 543098061
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_252
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ab8d93f470343994fa7732dcf401db7e
-      internalID: 1909133065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_253
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d4306e2fd1f7e1f4e903c714b1a0f35b
-      internalID: -12941527
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_254
-      rect:
-        serializedVersion: 2
         x: 160
         y: 32
         width: 32
@@ -5716,8 +5496,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97c86509ed471c440bec747a23034771
-      internalID: -134982031
+      spriteID: f8d7fc5647e8adb4483d1c5251957662
+      internalID: -821673066
       vertices: []
       indices: 
       edges: []
@@ -5736,7 +5516,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":16.0,"y":20.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_0: 2487698245616856483
       how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_1: 1432886014
@@ -5901,17 +5681,7 @@ TextureImporter:
       how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_242: -1396059625
       how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_243: 750116300
       how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_244: -821673066
-      how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_245: -526806876
-      how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_246: 296537187
-      how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_247: -1852803469
-      how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_248: -1247623044
-      how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_249: -470304117
       how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_25: -650584176
-      how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_250: 1893575287
-      how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_251: 543098061
-      how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_252: 1909133065
-      how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_253: -12941527
-      how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_254: -134982031
       how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_26: -1939221268
       how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_27: -863900407
       how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731_28: 286485447

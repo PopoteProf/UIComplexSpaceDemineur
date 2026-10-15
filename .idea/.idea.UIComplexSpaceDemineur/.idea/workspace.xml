@@ -11,46 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92ed0a95-59ed-413f-8090-224440adea65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Script/StaticData.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/StaticData.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/UICounter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/UICounter.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/UIDoorUnlockAnnonser.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/UIDoorUnlockAnnonser.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/UIHeathPoint.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/UIHeathPoint.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/UILoseAnnoncer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/UILoseAnnoncer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/UIWinAnnoncer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/UIWinAnnoncer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/WinTriggerZone.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/WinTriggerZone.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UIComplexSpaceDemineur/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UIComplexSpaceDemineur/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AC_Door.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AC_Door.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DoorClose.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DoorClose.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OpenDoor.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OpenDoor.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HorsPropo/MineCode.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/HorsPropo/MineCode.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HorsPropo/MineLevel.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/HorsPropo/MineLevel.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HorsPropo/MineMonoCkeck.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/HorsPropo/MineMonoCkeck.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HorsPropo/MineMultiCkeck.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/HorsPropo/MineMultiCkeck.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HorsPropo/MinePanelScroll.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/HorsPropo/MinePanelScroll.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HorsPropo/MineScroll.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/HorsPropo/MineScroll.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LevelDoor.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/LevelDoor.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MineCode.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/MineCode.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MineTriButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/MineTriButton.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MiniLevel.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/MiniLevel.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/LevelDoor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/LevelDoor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/MineScripte.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/MineScripte.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-HighFidelity.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-HighFidelity.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Text StyleSheet.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Text StyleSheet.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Barking_Dog/3D Free Modular Kit/Test_Map.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Barking_Dog/3D Free Modular Kit/Test_Map.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/UIHeathPoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/UIHeathPoint.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/how-can-i-use-a-sprite-sheet-to-create-individual-sprites-v0-x1q95f3yhq731.png.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +53,7 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Yo-han&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -116,12 +85,10 @@
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" useMixedMode="false">
       <option name="allowRunningInParallel" value="false" />
+      <option name="coreClr" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
-      <option name="runtimes">
-        <list />
-      </option>
       <option name="selectedOptions">
         <list />
       </option>
