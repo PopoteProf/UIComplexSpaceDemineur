@@ -61,9 +61,72 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3ea01e77be99618395f448b16bd7cc2bd4248bd9e5d8474964b2d97f39c5d74/System.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/MineCode.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/UIWinAnnoncer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/WinTriggerZone.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000004" />
+      <entry key="S2" value="1.0008338848282312" />
+      <entry key="S5" value="1.2692319424180167" />
+      <entry key="S10" value="2.9456933825697447" />
+      <entry key="S30" value="9.386151985238522" />
+      <entry key="S60" value="13.808194623611877" />
+      <entry key="M2" value="18.075765177056926" />
+      <entry key="M5" value="25.707819005900145" />
+      <entry key="M10" value="32.46433898039345" />
+      <entry key="M15" value="36.78318639315786" />
+      <entry key="M30" value="44.21835730855701" />
+      <entry key="H1" value="50.246378347330534" />
+      <entry key="H2" value="54.20166286649719" />
+      <entry key="H4" value="56.48315436737844" />
+      <entry key="D1" value="58.56301627955648" />
+      <entry key="W1" value="58.93712885641537" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.4669072115395553E-17" />
+      <entry key="MS500" value="4.381166023995396E-4" />
+      <entry key="S2" value="0.1976649039758827" />
+      <entry key="S5" value="0.7717151589429574" />
+      <entry key="S10" value="1.271243084887487" />
+      <entry key="S30" value="2.2150684478922718" />
+      <entry key="S60" value="2.8734005373323845" />
+      <entry key="M2" value="3.563988656696313" />
+      <entry key="M5" value="4.886735062811585" />
+      <entry key="M10" value="6.317340903903313" />
+      <entry key="M15" value="7.417601120457373" />
+      <entry key="M30" value="9.518106503437835" />
+      <entry key="H1" value="11.317199348095581" />
+      <entry key="H2" value="12.522050539176755" />
+      <entry key="H4" value="13.222930814897861" />
+      <entry key="D1" value="13.864823099351574" />
+      <entry key="W1" value="13.980545103100907" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.5721922213902347E-17" />
+      <entry key="MS500" value="4.4427669677318924E-4" />
+      <entry key="S2" value="0.21120343906376807" />
+      <entry key="S5" value="1.1973589966613059" />
+      <entry key="S10" value="3.5312351099933914" />
+      <entry key="S30" value="11.137116387951973" />
+      <entry key="S60" value="16.37257698922635" />
+      <entry key="M2" value="21.449171368575744" />
+      <entry key="M5" value="30.49658239735369" />
+      <entry key="M10" value="38.72280357273463" />
+      <entry key="M15" value="44.15658860002629" />
+      <entry key="M30" value="53.709597282948124" />
+      <entry key="H1" value="61.54808030675149" />
+      <entry key="H2" value="66.71526930184078" />
+      <entry key="H4" value="69.70166024260243" />
+      <entry key="D1" value="72.42707086215559" />
+      <entry key="W1" value="72.91756337154169" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2,
@@ -74,25 +137,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Jordan",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.3.24f1\Editor\Unity.exe" />
@@ -116,12 +183,10 @@
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" useMixedMode="false">
       <option name="allowRunningInParallel" value="false" />
+      <option name="coreClr" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
-      <option name="runtimes">
-        <list />
-      </option>
       <option name="selectedOptions">
         <list />
       </option>
