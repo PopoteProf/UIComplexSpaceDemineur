@@ -1,8 +1,13 @@
 ﻿using System;
+using DG.Tweening;
 using UnityEngine;
 
 public class UIHeathPoint : MonoBehaviour {
     [SerializeField] private GameObject[] _heathPoint;
+    public float DeactivationTime = 0.5f;
+    public Vector3 DeactivateSize = new Vector3(0, 0, 0);
+    public Vector3 DeactivateRotation = new Vector3(0, 0, 90);
+    public AnimationCurve DeactivationCurve = AnimationCurve.EaseInOut(0, 0, 1, 1);
     
     private void Start() {
         StaticData.OnPlayerLifeChanged+= StaticDataOnPlayerLifeChanged;
@@ -30,8 +35,11 @@ public class UIHeathPoint : MonoBehaviour {
     }
 
     // Se Lance pour désactiver une Vie ,cette dernière c'est "LifeObject".
-    private void DeactivateLife(GameObject lifeObject) {
-        lifeObject.SetActive(false);
+    private void DeactivateLife(GameObject lifeObject)
+    {
+        lifeObject.transform.DOScale(DeactivateSize, DeactivationTime).SetEase(DeactivationCurve);
+        lifeObject.transform.DORotate(DeactivateRotation, DeactivationTime);
+        //lifeObject.SetActive(false);
     }
     // Se Lance pour Activer une Vie ,cette dernière c'est "LifeObject".
     private void ActivateLife(GameObject lifeObject)
